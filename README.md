@@ -1,8 +1,15 @@
+[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)  
+[![ShinyApp](https://img.shields.io/badge/ShinyApp-Launch-blue?logo=R)](https://zsnv7j-quan-cui.shinyapps.io/BCWatershedCharacterization/)   
 
-
-[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 The project is in the very early stages of development. The codebase will be changing frequently.
 
+------------------------
+
+An interactive Shiny app for visualizing and comparing cumulative rainfall data from any date is the step_4 in this tool.
+
+🌐 [Launch the app here](https://zsnv7j-quan-cui.shinyapps.io/CumulativeCurve/)
+
+-------------------------
 
 # tbrg-qc
 R workflow to be applied to tipping bucket rain gauge data to flag suspect gauge tips that may be the result of gauge malfunction or snowmelt. 
